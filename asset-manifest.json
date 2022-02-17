@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nature-portal/static/css/main.be1e7241.css",
+    "main.js": "/nature-portal/static/js/main.ef061986.js",
+    "index.html": "/nature-portal/index.html",
+    "main.be1e7241.css.map": "/nature-portal/static/css/main.be1e7241.css.map",
+    "main.ef061986.js.map": "/nature-portal/static/js/main.ef061986.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be1e7241.css",
+    "static/js/main.ef061986.js"
+  ]
+}
