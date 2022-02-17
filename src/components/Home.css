@@ -1,0 +1,18 @@
+.Home {
+  padding-top: 5vh;
+  text-align: center;
+}
+
+.top-video-thumbnail {
+  height: 40vw;
+  border-radius: 10px;
+}
+
+.carousel-caption h3 {
+  background: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  margin: 0 0 0.7em 0.7em;
+  padding: 0 0.2em;
+  font-size: 5em;
+  width: fit-content;
+}
